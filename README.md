@@ -5,8 +5,8 @@ import random
 from telebot import types
 
 # ВАШИ КЛЮЧИ
-TOKEN = '7777303171:AAFYbYPcjGttD_-9PSYaudYq3qmmrP0_VEc'
-GOOGLE_API_KEY = 'AIzaSyCnbO64lpq63etJgHFXQhnuS4CBYKGIc04'
+TOKEN = ''
+GOOGLE_API_KEY = ''
 
 
 # === Инициализация ===
